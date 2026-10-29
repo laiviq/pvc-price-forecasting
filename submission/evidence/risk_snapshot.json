@@ -1,0 +1,8 @@
+{
+  "model": "R67_C20_Basket",
+  "cutoff": "2026-07-03",
+  "probability_any_weekly_jump_ge_8pct_next_13_weeks": 0.11891534363814237,
+  "past_mature_prior": 0.2800982800982801,
+  "research_only": true,
+  "independent_holdout": false
+}

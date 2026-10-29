@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "allowlisted_files": 86,
+  "secret_scan_findings": [],
+  "closed_workbook_excluded": true,
+  "closed_history_and_feature_matrices_excluded": true,
+  "final_csv_byte_identical": true,
+  "protected_originals": {
+    "originals_checked": 113,
+    "changed": [],
+    "status": "pass"
+  },
+  "tests": "279 unittest tests passed",
+  "report_pages": 2,
+  "presentation_slides": 7,
+  "charts_editable": 3,
+  "visual_review": "All 2 PDF pages and all 7 slide renders inspected; chart baseline and line smoothing repaired",
+  "native_application_test": "Not opened in PowerPoint/Google Slides; package/import/render checks only"
+}

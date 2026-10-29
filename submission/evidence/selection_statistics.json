@@ -1,0 +1,12 @@
+{
+  "full_path_smape": 6.858665839844781,
+  "naive_gap_pp": 0.7443769280991569,
+  "paired_delta_ci": [
+    -1.2936283316896724,
+    -0.223253512053011
+  ],
+  "winner_path_fraction": 0.64,
+  "overlap_block": 13,
+  "bootstrap_repetitions": 2000,
+  "warning": "Exploratory reused history; block intervals do not correct for model search selection"
+}

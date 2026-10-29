@@ -1,0 +1,26 @@
+{
+  "status": "pass",
+  "forecast_rows": 13,
+  "strategy_rows": 13,
+  "first_week": "2026-07-10",
+  "last_week": "2026-10-02",
+  "strict_columns": true,
+  "encoding": "UTF-8 BOM",
+  "separator": ";",
+  "finite_positive_forecast": true,
+  "positions": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

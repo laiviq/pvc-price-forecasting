@@ -1,0 +1,37 @@
+{
+  "spot.csv": {
+    "local_origin": "data/external/new_sources/physical_v12/weekly_quotes.csv",
+    "sha256": "55829e7f2a0bfd6e2c5e26a7218e0cb3b0ca8d32b9c8dd7cc7bda6d390d81adb",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  },
+  "contracts.csv": {
+    "local_origin": "data/external/new_sources/curve_v6/contract_daily.csv",
+    "sha256": "7d6f24a39ce67a3869467287afad4543ec8ed0b9cef4f2d5837dcd9be48c1788",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  },
+  "nbs.csv": {
+    "local_origin": "data/external/new_sources/03_china_spot/nbs_history/sg5_official_history.csv",
+    "sha256": "e7b9b2d23ab68f4f11c4e12be5921ae562cb043c69a7d1213ecf3ef182697d7c",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  },
+  "zhongtai.csv": {
+    "local_origin": "results/producer_equity_v67/adjustments_001/zhongtai_daily.csv",
+    "sha256": "ef1ae41d3aa40c93efbd782bbe02f34dab58e4cf1babbdf26b84007dac2faa1d",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  },
+  "tianye.csv": {
+    "local_origin": "results/producer_equity_v67/adjustments_001/tianye_daily.csv",
+    "sha256": "bbd94a983a68180859d8a9075fa80e18de06f400479d2bdad36371e3d9b584ff",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  },
+  "shanghai.csv": {
+    "local_origin": "results/producer_equity_v67/adjustments_001/shanghai_daily.csv",
+    "sha256": "fddaff5344689c0c1a2e99155836ec88c3c329a55e4e0789b20d72bc5e1819e9",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  },
+  "shenzhen.csv": {
+    "local_origin": "results/producer_equity_v67/adjustments_001/shenzhen_daily.csv",
+    "sha256": "575e28c97b54a038cada5bcb837558f104b7cea78b5acabaea5aa856525b599f",
+    "scope": "Public numeric observations; retrieved archive vintages, not independently certified first releases"
+  }
+}

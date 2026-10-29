@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "fresh_environment": "build/repro_venv",
+  "dependency_install": "network installation from pinned top-level versions, then exact resolved lock saved",
+  "python": "3.14.3",
+  "working_directory": "submission/repository/pvc-price-forecasting",
+  "research_caches_present": false,
+  "raw_workbook": "supplied as external absolute path; excluded from package",
+  "trained_from_scratch": true,
+  "forecast_csv_byte_identical": true,
+  "strategy_csv_byte_identical": true
+}

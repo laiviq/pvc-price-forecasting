@@ -1,0 +1,17 @@
+{
+  "csv_files": 1088,
+  "unique_named_prediction_models": 346,
+  "unique_model_prediction_fingerprints": 489,
+  "common_cohort_models": 331,
+  "common_cohort_origins": 225,
+  "common_cohort_points": 2925,
+  "experiment_directories": 66,
+  "notebooks": 0,
+  "warning": "Names and output fingerprints are not unique algorithm configurations. Do not add them or count copied reference predictions twice.",
+  "explicit_protocol_files": 84,
+  "streams_with_completion_receipts": 14,
+  "confirmed_v68_configurations": 12,
+  "confirmed_v68_feature_sets": 4,
+  "global_distinct_algorithm_configuration_count": null,
+  "global_tested_hypothesis_count": null
+}
